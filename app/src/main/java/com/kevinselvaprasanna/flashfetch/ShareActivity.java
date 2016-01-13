@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch.shareactivity;
+package com.kevinselvaprasanna.flashfetch;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -10,12 +10,10 @@ import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -25,7 +23,6 @@ import com.bumptech.glide.Glide;
 import com.kevinselvaprasanna.flashfetch.Network.PostRequest;
 import com.kevinselvaprasanna.flashfetch.Objects.PostParam;
 import com.kevinselvaprasanna.flashfetch.Objects.UserProfile;
-import com.kevinselvaprasanna.flashfetch.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

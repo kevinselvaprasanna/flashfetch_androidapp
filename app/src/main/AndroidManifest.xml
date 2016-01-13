@@ -24,7 +24,7 @@
             </intent-filter>-->
         </activity>
         <activity
-            android:name=".shareactivity.ShareActivity"
+            android:name=".ShareActivity"
             android:label="@string/title_activity_share"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter android:label="Flash Fetch">
