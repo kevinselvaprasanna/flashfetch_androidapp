@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch.Objects;
+package in.flashfetch.androidapp.Objects;
 
 import android.content.Context;
 import android.content.SharedPreferences;

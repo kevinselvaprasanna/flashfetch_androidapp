@@ -1,10 +1,10 @@
-package com.kevinselvaprasanna.flashfetch.Network;
+package in.flashfetch.androidapp.Network;
 
 import android.util.Log;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-import com.kevinselvaprasanna.flashfetch.Objects.PostParam;
+import in.flashfetch.androidapp.Objects.PostParam;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

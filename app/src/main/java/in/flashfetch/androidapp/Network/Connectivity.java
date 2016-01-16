@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch.Network;
+package in.flashfetch.androidapp.Network;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

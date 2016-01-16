@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch;
+package in.flashfetch.androidapp;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -31,9 +31,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.kevinselvaprasanna.flashfetch.Network.PostRequest;
-import com.kevinselvaprasanna.flashfetch.Objects.PostParam;
-import com.kevinselvaprasanna.flashfetch.Objects.UserProfile;
+import in.flashfetch.androidapp.Network.PostRequest;
+import in.flashfetch.androidapp.Objects.PostParam;
+import in.flashfetch.androidapp.Objects.UserProfile;
 
 import org.json.JSONException;
 import org.json.JSONObject;

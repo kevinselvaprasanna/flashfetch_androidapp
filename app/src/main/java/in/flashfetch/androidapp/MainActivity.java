@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch;
+package in.flashfetch.androidapp;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.kevinselvaprasanna.flashfetch.Objects.UserProfile;
+import in.flashfetch.androidapp.Objects.UserProfile;
 
 public class MainActivity extends AppCompatActivity {
 

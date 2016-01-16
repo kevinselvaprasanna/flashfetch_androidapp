@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch.Objects;
+package in.flashfetch.androidapp.Objects;
 
 /**
  * Created by Ahammad on 16/06/15.

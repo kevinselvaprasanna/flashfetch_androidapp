@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch.Network;
+package in.flashfetch.androidapp.Network;
 
 import android.graphics.Bitmap;
 import android.util.Log;
