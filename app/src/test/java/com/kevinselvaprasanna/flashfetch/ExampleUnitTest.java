@@ -1,4 +1,4 @@
-package com.kevinselvaprasanna.flashfetch;
+package in.flashfetch.androidapp;
 
 import org.junit.Test;
 
